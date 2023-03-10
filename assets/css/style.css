@@ -35,6 +35,8 @@ html {
     display: inline-block;
     margin-top: 15px;
     border: none;
+    appearance: none;
+    -webkit-appearance: none;
 }
 
 .btn:hover {
@@ -355,7 +357,7 @@ html {
 }
 
 /* Contact form */
-.contact-content {
+.contact-form {
     margin-top: 47px;
 }
 
